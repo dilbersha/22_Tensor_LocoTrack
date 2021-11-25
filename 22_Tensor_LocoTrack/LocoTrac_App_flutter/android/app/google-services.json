@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369910449792",
+    "project_id": "tensor-f516b",
+    "storage_bucket": "tensor-f516b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369910449792:android:c3ab310b6eeb4545aa0865",
+        "android_client_info": {
+          "package_name": "com.example.tensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369910449792-u1g7rmk2ue09l378qjposqbil9g33ns6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe-Ph2oxLrKFxGJGO-bq1PZ51EX2xNvGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369910449792-u1g7rmk2ue09l378qjposqbil9g33ns6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
